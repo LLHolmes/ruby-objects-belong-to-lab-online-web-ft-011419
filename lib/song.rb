@@ -1,3 +1,3 @@
-Class Artist
-  attr_accessor :name
+Class Song
+  attr_accessor :title, :artist
 end
